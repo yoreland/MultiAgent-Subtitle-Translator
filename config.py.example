@@ -1,0 +1,17 @@
+# Configuration Example
+# Copy this file to config.py and modify the settings
+
+# LLM API Configuration
+LLM_BASE_URL = "https://your-llm-api-endpoint.com/"
+LLM_API_KEY = "your-api-key-here"
+LLM_MODEL = "your-model-name"
+
+# Supported languages
+LANGUAGES = {
+    "中文": "Chinese",
+    "English": "English", 
+    "日本語": "Japanese",
+    "한국어": "Korean",
+    "Español": "Spanish",
+    "Français": "French"
+}

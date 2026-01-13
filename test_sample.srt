@@ -1,0 +1,15 @@
+1
+00:00:01,000 --> 00:00:04,000
+Hello, welcome to our presentation.
+
+2
+00:00:04,500 --> 00:00:08,000
+Today we will discuss artificial intelligence.
+
+3
+00:00:08,500 --> 00:00:12,000
+Machine learning is transforming industries.
+
+4
+00:00:12,500 --> 00:00:16,000
+Let's explore the future of technology together.
