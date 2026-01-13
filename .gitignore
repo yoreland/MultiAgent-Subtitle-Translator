@@ -21,6 +21,9 @@ wheels/
 *.egg
 MANIFEST
 
+# Configuration files (contains sensitive info)
+config.py
+
 # Virtual Environment
 venv/
 env/
