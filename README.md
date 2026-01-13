@@ -20,7 +20,7 @@
 
 ## 演示视频
 
-![演示视频](srt-translator.mp4)
+![演示视频](translator.gif)
 
 ## 快速开始
 
